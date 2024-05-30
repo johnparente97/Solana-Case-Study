@@ -1,25 +1,29 @@
-# OSU_Bootcamp_Solana_Case_Study
+# Solana_Case_Study
 
 ## Overview and Origin
 
-* Name of company
-	•	Solana
+### Name of Company
+**Solana**
 
-* When was the company incorporated?
-	•	July 2020 (Solana Labs)
+### When was the company incorporated?
+Solana Labs was officially incorporated in **July 2020**. This marked the beginning of a new era in blockchain technology, with Solana aiming to address some of the critical challenges faced by earlier blockchain networks.
 
-* Who are the founders of the company?
-	•	Solana was founded by Anatoly Yakovenko and the Solana Labs team. (Solana Labs - Blockchain Basics)
+### Who are the founders of the company?
+The company was founded by **Anatoly Yakovenko** along with the team at Solana Labs. Their combined expertise and vision for a high-performance blockchain laid the foundation for what Solana is today.
 
-* How did the idea for the company (or project) come about?
-	•	The idea for the company (or project) came about because Anatoly Yakovenko recognized the scalability and performance limitations of existing blockchain platforms and believed that these issues needed to be addressed to make blockchain technology more practical and widely adopted. The goal was to create a blockchain platform that could offer faster transaction processing and scalability while maintaining decentralization and security. This led to the development of Solana with innovative technologies like Proof of History (PoH). (Solana Labs - Blockchain Basics)
+### How did the idea for the company (or project) come about?
+The inception of Solana stemmed from a need to overcome the **scalability and performance bottlenecks** prevalent in existing blockchain systems. Anatoly Yakovenko envisioned a platform that could process transactions rapidly and scale effectively without compromising on the core principles of decentralization and security. This vision materialized through the introduction of **Proof of History (PoH)**, a novel consensus mechanism that allows for greater efficiency and a higher throughput of transactions.
 
-* How is the company funded? How much funding have they received?
-	•	Solana Labs, the company behind the Solana blockchain, had raised significant funding through various rounds of investment. 
-	◦	Initial Coin Offering: Solana conducted an ICO in March 2020, raising about $20 million. This ICO helped kickstart the development of the Solana ecosystem. 
-	◦	Private Investment: Solana Labs secured funding from various venture capital firms and private investors. Some notable investors include Multicoin Capital, Foundation Capital, and Alameda Research, among others. The exact funding amounts from these investors may vary. 
-	◦	Solana Foundation: The Solana Foundation has played a significant role in funding the development and growth of the Solana ecosystem. It provides grants and support to projects and teams building on Solana.
-	◦	Ecosystem Growth: As Solana's ecosystem expanded, it attracted various projects and developers who built on the Solana platform. These projects may have raised their own funding, contributing to the broader Solana ecosystem's growth. (Crunchbase)
+### How is the company funded? How much funding have they received?
+Solana Labs has been funded through a combination of methods:
+
+- **Initial Coin Offering (ICO):** In March 2020, Solana raised approximately **$20 million** through an ICO. This event was crucial for securing the capital needed to jumpstart the development and expansion of the Solana ecosystem.
+
+- **Private Investment:** Following the ICO, Solana Labs attracted investments from several venture capital firms and private investors. Notable names include **Multicoin Capital**, **Foundation Capital**, and **Alameda Research**. The total amount raised from these entities has contributed significantly to Solana's growth, although the precise figures are not publicly disclosed.
+
+- **Solana Foundation:** The Solana Foundation has been instrumental in nurturing the ecosystem. It offers grants and other forms of support to projects and developers committed to building on the Solana platform.
+
+- **Ecosystem Growth:** As the Solana ecosystem flourished, it drew in a diverse range of projects and developers. These groups have also raised funds independently, further bolstering the overall development and adoption of the Solana blockchain.
 
 ## Business Activities
 
