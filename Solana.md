@@ -27,20 +27,23 @@ Solana Labs has been funded through a combination of methods:
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-	•	Solana is addressing the limitations of existing blockchain platforms, including slow transaction speeds, high fees, and limited throughput. They aim to provide a high-performance, scalable blockchain platform that can handle a high volume of transactions quickly and cost-effectively. (Solana Labs - Solana)
-	•	Solana is a cutting edge blockchain that is pushing the narrative of tokenizing. Tokenization is the process of converting a real or tangible asset, such as real estate, art, stocks, or other physical or financial assets, into a digital token on a blockchain. These digital tokens represent ownership, or a share of the underlying asset. (Wikipedia - Tokenization)
-	•	This new technology could aid in the task of taking account of international currencies. Over the last decade or so there’s been a trend for online fraud, whether it’s for credit cards or other payment solutions. Having transactions verified on the blockchain will be an accurate resource to track such incidents and their validity.
-De
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-	•	Solana's intended customers are developers and projects looking to build decentralized applications (DApps) and services on their blockchain platform. They are also targeting the decentralized finance (DeFi) sector and various other applications that require a fast and efficient blockchain infrastructure. (Solana Labs - Solana)
+### What specific problem is the company or project trying to solve?
+**Solana** is tackling the critical issues that plague many existing blockchain platforms: **slow transaction speeds**, **high fees**, and **limited throughput**. Their mission is to provide a blockchain solution that is not only high-performing and scalable but also capable of handling a large volume of transactions both swiftly and cost-effectively.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-	•	“Some of the current leading blockchain technologies use energy-hogging, time-consuming mining — or solving very complex calculations — to validate security, and have fees that can range into the hundreds of dollars per transaction. Solana uses what’s called proof of stake to validate information — there’s no mining involved — and a special innovation called proof of history on top of that that allows it to validate even quicker. That makes it extremely efficient, using energy at the same scale as a few Google searches and significantly less energy than other regular household uses like running your refrigerator. Transaction fees, which are used to maintain blockchain networks and have ballooned elsewhere, are a fraction of a cent on Solana.” (Solana Labs - Blockchain Basics)
-	•	Solana's unfair advantage is its unique combination of technologies, including the Proof of History (PoH) mechanism, a high-performance consensus algorithm, and a fast virtual machine for smart contracts. These technologies enable Solana to achieve high throughput and low transaction costs, which sets it apart from competitors in the blockchain space. (Solana Labs - Blockchain Basics)
+Moreover, Solana is at the forefront of the **tokenization** movement. Tokenization is the process of converting rights to an asset into a digital token on a blockchain. This could be anything from real estate and art to stocks and other financial assets. These tokens effectively represent ownership or a stake in the underlying asset, making them a revolutionary tool for digital ownership and investment.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing & you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-	•	Solana utilizes a range of technologies, including its PoH mechanism, the Solana blockchain, and the Solana Runtime. These technologies are implemented to deliver high-speed transaction processing and scalability. They also have a Rust-based programming model for smart contracts. (Solana Labs - Blockchain Basics)
+Additionally, Solana's technology offers a promising solution to the pervasive issue of online fraud. By leveraging blockchain's inherent transparency and security, Solana can provide a reliable means to verify transactions and combat fraudulent activities, particularly in the realm of international currencies and payment methods.
+
+### Who is the company's intended customer? Is there any information about the market size of this set of customers?
+Solana's primary customers are **developers** and **projects** that are keen on creating decentralized applications (DApps) and services on a robust blockchain platform. They are also targeting the burgeoning **decentralized finance (DeFi)** sector, among other industries that demand a fast, efficient, and reliable blockchain infrastructure. While specific market size data isn't provided, the potential market is vast, encompassing anyone looking to leverage blockchain technology for innovative applications and financial solutions.
+
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Unlike many blockchain technologies that rely on energy-intensive mining processes, Solana employs a **proof of stake** model for information validation, eliminating the need for mining. This approach, coupled with an innovative feature known as **proof of history (PoH)**, allows for even faster validation times. This efficiency translates to minimal energy usage—comparable to a few Google searches—and transaction fees that are just a fraction of a cent.
+
+Solana's "unfair advantage" lies in its unique amalgamation of cutting-edge technologies. The **PoH mechanism**, a high-performance consensus algorithm, and a swift virtual machine for executing smart contracts collectively empower Solana to achieve unparalleled throughput and minimal transaction costs, distinguishing it from other players in the blockchain arena.
+
+### Which technologies are they currently using, and how are they implementing them?
+Solana leverages a suite of advanced technologies, including the **PoH mechanism**, the **Solana blockchain**, and the **Solana Runtime**. These are meticulously implemented to ensure rapid transaction processing and scalability. Additionally, Solana has adopted a **Rust-based programming model** for smart contracts, further enhancing the platform's performance and developer-friendliness.
 
 ## Landscape
 
